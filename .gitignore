@@ -1,0 +1,5 @@
+.env
+*.env
+
+# created to ignore all .json files
+*.json
